@@ -1,5 +1,5 @@
 name:                gridfs 
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            GridFS (MongoDB file storage) implementation 
 description:         Please see README.md
 homepage:            http://github.com/btubbs/haskell-gridfs#readme
