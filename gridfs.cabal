@@ -1,12 +1,12 @@
 name:                gridfs 
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            GridFS (MongoDB file storage) implementation 
 description:         Please see README.md
 homepage:            http://github.com/btubbs/haskell-gridfs#readme
 license:             OtherLicense
 license-file:        LICENSE
 author:              Martin Norbäck Olivers
-maintainer:          example@example.com
+maintainer:          brent.tubbs@gmail.com 
 copyright:           2016 Martin Norbäck Olivers
 category:            Database 
 build-type:          Simple
